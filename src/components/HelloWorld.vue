@@ -1,6 +1,12 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
+    <h1>BRÚJULA POLÍTICA</h1>
+    <p>Primero una prequeña introducción: el fin de esta página es intentar ayudar a las personas que aún no han
+      decidido por quién votar dándoles sugerencias basadas en sus preferencias sobre algunos puntos.
+    </p>
+    <p>En total son 5 preguntas, y el resultado final se debe mostrar al final, con una breve explicación del
+      resultado obtenido.
+    </p>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
